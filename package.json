@@ -1,0 +1,37 @@
+{
+    "name": "@types/hapi",
+    "version": "16.1.9-db.1",
+    "description": "TypeScript definitions for hapi",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Jason Swearingen",
+            "url": "https://github.com/jasonswearingen"
+        },
+        {
+            "name": "AJP",
+            "url": "https://github.com/AJamesPhillips"
+        },
+        {
+            "name": "Damian Bouné",
+            "url": "https://github.com/dboune"
+        }
+    ],
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/boom": "*",
+        "@types/joi": "*",
+        "@types/catbox": "*",
+        "@types/mimos": "*",
+        "@types/podium": "*",
+        "@types/shot": "*",
+        "@types/node": "*"
+    },
+    "typesPublisherContentHash": "",
+    "typeScriptVersion": "2.3"
+}
