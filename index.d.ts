@@ -204,7 +204,7 @@ export class Server extends Podium {
      */
     decorate(type: 'request' | 'reply' | 'server', property: string, method: Function): void;
     decorate(type: 'request', property: string, method: Function, options?: {apply: false}): void;
-    decorate(type: 'request', property: string, method: (request: Request) => Function, options: {apply: true}): void;
+    decorate(type: 'request', property: string, method: (request?: Request) => any, options: {apply: true}): void;
     /**
      * The server.decorate('server', ...) method can modify this prototype/interface.
      * Have disabled these typings as there is a better alternative, see example in: tests/server/decorate.ts
