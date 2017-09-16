@@ -1,6 +1,8 @@
 // Type definitions for hapi 16.1
 // Project: https://github.com/hapijs/hapi
-// Definitions by: Jason Swearingen <https://github.com/jasonswearingen>, AJP <https://github.com/AJamesPhillips>
+// Definitions by: Jason Swearingen <https://github.com/jasonswearingen>,
+//                 AJP <https://github.com/AJamesPhillips>,
+//                 Damian Bouné <https://github.com/dboune>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.3
 
