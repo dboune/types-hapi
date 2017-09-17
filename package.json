@@ -20,7 +20,7 @@
     "main": "",
     "repository": {
         "type": "git",
-        "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+        "url": "https://www.github.com/dboune/types-hapi.git"
     },
     "scripts": {},
     "dependencies": {
